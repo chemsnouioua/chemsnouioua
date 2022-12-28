@@ -13,11 +13,12 @@ I’m Chems, a software engineer. I see that every problem is a challenge. so ch
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-
-<a href="https://github.com/cristinamghita">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=chemsnouioua&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Cristina's GitHub Stats" />
-</a>
+<br><br>
+## Git Activeness <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=chemsnouioua&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chemsnouioua&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemsnouioua&count_private=true&theme=radical" alt="Jas-Script" />
 
 
 
