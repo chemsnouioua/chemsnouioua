@@ -1,15 +1,14 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/chemsnouioua)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chemsnouioua/)
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=chemsnouioua&color=brightgreen" alt="watching_count" />
+ </p>
 
 
 Hi 👋
 
 I’m Chems, a software engineer. I see that every problem is a challenge. so challenge me ;)
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=chemsnouioua&color=brightgreen" alt="watching_count" />
- </p>
 
 <br><br>
 ## Git Activeness <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
