@@ -5,7 +5,7 @@
 
 Hi 👋
 
-I’m Chems, a software engineer. I see that every problem is a challenge. so challenge me ;)
+I’m Chems, a software engineer. I see that every problem is a challenge. so ready for challenge ;)
 
 
 <br><br>
